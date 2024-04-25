@@ -1,0 +1,1 @@
+terraform plan -var-file="terraform.tfvars" -var-file="terraform2.tfvars"
